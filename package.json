@@ -4,6 +4,7 @@
   "description": "Thsi is a node project",
   "main": "index.js",
   "author": "Joker",
+  "repository": "https://github.com/lovejapan1/Nojs-argo",
   "license": "MIT",
   "private": false,
   "scripts": {
